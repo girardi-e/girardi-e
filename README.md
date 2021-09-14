@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [BestBuddies](https://github.com/taiguaramaran/BestBuddies.git)
 
-- 🌱 I’m currently learning **REACT / PHP**
+- 🌱 I’m currently learning **REACT**
+
+- 🤝 I’m looking for help with **PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/girardi-e](https://github.com/girardi-e)
 
