@@ -1,11 +1,9 @@
-<h1 align="center">Hi, I'm Emilio Girardi</h1>
-<h3 align="center">A passionate fullstack web developer from Brazil</h3>
+<img src="/images/readme_bg.png"></br>
 
-- 🔭 I’m currently working on [BestBuddies](https://github.com/taiguaramaran/BestBuddies.git)
+<h1 align="center">Emilio Girardi</h1>
+<h3 align="center">Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **REACT**
-
-- 🤝 I’m looking for help with **PHP**
+- 🌱 Currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/girardi-e](https://github.com/girardi-e)
 
