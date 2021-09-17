@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emilio Girardi</h1>
-<h3 align="center">A passionate full-stack web developer from Brazil</h3>
+<h1 align="center">Hi, I'm Emilio Girardi</h1>
+<h3 align="center">A passionate fullstack web developer from Brazil</h3>
 
 - 🔭 I’m currently working on [BestBuddies](https://github.com/taiguaramaran/BestBuddies.git)
 
