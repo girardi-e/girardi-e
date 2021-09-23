@@ -1,4 +1,4 @@
-<img src="/images/readme_bg.png"></br>
+<img src="/images/readme_banner.jpg"></br>
 
 <h1 align="center">Emilio Girardi</h1>
 <h3 align="center">Fullstack Developer</h3>
