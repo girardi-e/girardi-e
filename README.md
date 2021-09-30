@@ -3,7 +3,7 @@
 <h1 align="center">Emilio Girardi</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🌱 Currently learning **VUE**
+- 🌱 Currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/girardi-e](https://github.com/girardi-e)
 
