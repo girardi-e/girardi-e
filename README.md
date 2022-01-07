@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/girardi-e](https://github.com/girardi-e)
 
-- 💬 Ask me about **Web Development and Games**
+- 💬 Ask me about **Web Development and Video Games**
 
 - 📫 How to reach me **emilio.g.girardi@gmail.com**
 
