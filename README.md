@@ -3,15 +3,15 @@
 <h1 align="center">Emilio Girardi</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🌱 Currently learning **React**
+- 🌱 Currently learning **Python Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/girardi-e](https://github.com/girardi-e)
 
-- 💬 Ask me about **Ruby and Rails**
+- 💬 Ask me about **Web Development and Games**
 
 - 📫 How to reach me **emilio.g.girardi@gmail.com**
 
-- ⚡ Fun fact **I think I can sing well for a developer.**
+- ⚡ Fun fact **I'm a foodie.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
